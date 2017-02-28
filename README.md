@@ -1,3 +1,4 @@
 # test
 just another repository
-global commit 
+global commit
+local commit
